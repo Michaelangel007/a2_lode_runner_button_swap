@@ -1,0 +1,15 @@
+Swap buttons in Lode Runner using AppleWin F7:
+6AD1:61
+6ADA:62
+
+Track E, Sector A
+Offset D1: 62 -> 61
+Offset DA: 61 -> 62
+
+To reset back to default
+6AD1:62
+6ADA:61
+
+
+Enjoy
+Michaelangel007
